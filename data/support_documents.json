@@ -1,0 +1,28 @@
+
+[
+  {
+    "id": "support_1",
+    "title": "Account locked",
+    "content": "If a user enters an incorrect password multiple times, the account may become locked. Contact the system administrator to unlock the account after verifying the user's identity."
+  },
+  {
+    "id": "support_2",
+    "title": "Password Reset",
+    "content": "To reset a forgotten password, select Forgot Password on the login page. Enter your registered email address and follow the password reset instructions sent to your inbox. Check your spam folder if the email does not arrive."
+  },
+  {
+    "id": "support_3",
+    "title": "Application Server Error",
+    "content": "If the application displays a server error, check whether the server is running and review the application logs. If the issue continues, contact the technical support team with the error message and approximate time of occurrence."
+  },
+  {
+    "id": "support_4",
+    "title": "Access Permission",
+    "content": "If a user cannot access a particular module, verify that the user has the required role and permissions. Contact the system administrator if the correct permissions are missing."
+  },
+  {
+    "id": "support_5",
+    "title": "Slow Application",
+    "content": "If the application responds slowly, check network connectivity, server resource usage, and application logs. If the issue persists, report the affected module, approximate time, and steps to reproduce the problem to technical support."
+  }
+]
